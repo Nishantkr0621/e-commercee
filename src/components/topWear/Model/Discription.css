@@ -1,0 +1,10 @@
+.btn-primary:hover {
+    background-color: greenyellow;
+    color: black;
+  }
+  
+  .btn-lg {
+    padding: 0.6rem 0.8rem;
+    font-size: 0.7rem;
+  }
+  
